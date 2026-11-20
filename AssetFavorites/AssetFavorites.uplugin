@@ -1,0 +1,26 @@
+{
+  "FileVersion": 1,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "Asset Favorites",
+  "Description": "收藏夹插件，支持收藏目录和资产文件，分类管理，备注标记等功能",
+  "Category": "Editor",
+  "CreatedBy": "LoF Team",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": false,
+  "Installed": true,
+  "Modules": [
+    {
+      "Name": "AssetFavorites",
+      "Type": "Editor",
+      "LoadingPhase": "PostDefault",
+      "PlatformAllowList": [
+        "Win64",
+        "Mac"
+      ]
+    }
+  ]
+}
